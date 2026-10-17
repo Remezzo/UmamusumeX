@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="icarus.png" alt="Icarus" width="120" />
+<img src="UmamusumeX-readme-images/ux-logo-1024.png" alt="UX" width="120" />
+
 
 # UmamusumeX
 
@@ -421,9 +422,15 @@ UmamusumeX is one tool in a family of Umamusume utilities by **Icarus**. Join th
 
 <div align="center">
 
+
+
 ### [→ discord.gg/wpbd3hTBDc](https://discord.gg/wpbd3hTBDc)
 
 </div>
+
+---
+
+<div align="center"><img src="UmamusumeX-readme-images/umamusumex-wordmark-dark.png" alt="UmamusumeX" width="420" /></div>
 
 ---
 
