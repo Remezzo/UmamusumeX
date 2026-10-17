@@ -1,0 +1,559 @@
+UmamusumeX — Proprietary Software License Agreement
+Copyright © 2026 Remezzo / Icarus. All rights reserved.
+
+Version 1.0 — effective for UmamusumeX 1.0.0 and later unless superseded.
+
+IMPORTANT — READ CAREFULLY. This License Agreement ("Agreement") is a legal
+agreement between You and Remezzo / Icarus ("Licensor", "we", "us"), governing
+the software known as "UmamusumeX", in every form described in Section 1 (the
+"Software").
+
+UmamusumeX is PROPRIETARY, CLOSED-SOURCE software. It is not open source. No
+source code is provided, and nothing in this Agreement grants any right to the
+Software's source code, build system, design documents, or internal data.
+
+By downloading, installing, running, updating, or otherwise using the Software,
+You accept and agree to be bound by this Agreement. If You do not agree, do not
+download, install, or use the Software, and delete every copy in Your possession.
+
+--------------------------------------------------------------------------------
+PLAIN-LANGUAGE SUMMARY  (the formal terms below control in any conflict)
+--------------------------------------------------------------------------------
+  You MAY:     download and run the official, unmodified UmamusumeX release on
+               your own computers, for yourself, for free, and let people you
+               know connect to it on your own network.
+  You MAY NOT: copy it, change it, take it apart, reuse any of it, share or
+               sell it, run it as a public or paid service, or bypass its
+               protections.
+  YOU ARE responsible for how you use it, including the game's own rules,
+               your game accounts, your computer, and anyone you let connect.
+  WE ARE NOT liable for losses of any kind, and we give no warranty. It is an
+               unofficial fan project, provided as is.
+
+--------------------------------------------------------------------------------
+1. DEFINITIONS
+--------------------------------------------------------------------------------
+"Software" means UmamusumeX in every form: its source code; its object and
+compiled code; the released executable(s) and any runtimes, libraries, and
+engines bundled with them (including the race engine); its control panel, web and
+user-interface assets, scripts, configuration, data files, game-data tables and
+fixtures, icons, fonts, and artwork; its documentation; its optional mods and
+extensions that Licensor distributes; its installer, updater, and uninstaller; and
+any updates, upgrades, patches, or replacements Licensor makes available.
+
+"You" means the individual or entity that downloads, installs, or uses the
+Software. If You accept this Agreement on behalf of an entity, You represent that
+You have authority to bind it, and "You" includes that entity.
+
+"Game" means Umamusume: Pretty Derby and any related client, service, or data,
+and "Game Operator" means the owner or operator of the Game and its official
+services.
+
+"Official Build" means a release of the Software that Licensor itself published
+through a channel Licensor controls, with its integrity information (such as
+checksums or signatures) intact and unaltered.
+
+"Private Server Use" means running the Software on a computer You own or
+control, for Your own personal, non-commercial purposes, so that a Game client on
+Your own network communicates with that copy of the Software.
+
+"Third-Party Services" means any service or software not provided by Licensor
+that the Software interacts with or depends on, including Steam, the Game and its
+official servers, Twitch, Archipelago and its tools, the Windows operating system
+and its trust store, and any release-hosting, download, or schedule source the
+Software contacts.
+
+"Licensor Marks" means the names "UmamusumeX" and "Icarus," the Icarus logo and
+artwork, and any associated names, logos, and trade dress.
+
+--------------------------------------------------------------------------------
+2. LICENSE GRANT
+--------------------------------------------------------------------------------
+Subject to Your continuous compliance with this Agreement, Licensor grants You a
+personal, limited, revocable, non-exclusive, non-transferable, non-sublicensable
+license to download and run one copy of the Official Build, in its unmodified,
+compiled form, on computers You own or control, solely for Private Server Use.
+
+This is a license, not a sale. You acquire no ownership of the Software or of any
+copy of it. The Software is licensed to You at no charge; that does not make it
+free software, open-source software, or public-domain software.
+
+--------------------------------------------------------------------------------
+3. PERMITTED USE
+--------------------------------------------------------------------------------
+Within the grant in Section 2, You may:
+  (a) run the Software on Your own computers, including a home local network;
+  (b) allow people You personally know to connect their own Game clients to Your
+      running copy over a network You control, without charge and without any
+      compensation or benefit to You, provided Section 4 is respected;
+  (c) use the Software's control panel to configure, back up, edit, and restore
+      the data of Your own copy;
+  (d) make backup copies of Your own save data, settings, and logs; and
+  (e) keep one backup copy of the Official Build solely to restore Your own
+      installation.
+
+--------------------------------------------------------------------------------
+4. RESTRICTIONS
+--------------------------------------------------------------------------------
+Except as expressly permitted in Sections 2 and 3, You may NOT, in whole or in
+part, directly or indirectly, or allow or assist anyone else to:
+
+  (a) use the Software, or any portion of its code, structure, logic, algorithms,
+      data layout, interfaces, or design, in any other software, service,
+      product, or work, whether commercial or non-commercial, closed or open,
+      free or paid;
+  (b) copy, reproduce, modify, adapt, translate, port, or create derivative works
+      of the Software;
+  (c) distribute, publish, upload, mirror, host, sublicense, sell, resell, rent,
+      lease, lend, give away, or otherwise make the Software, or any part of it,
+      available to any third party, including through file-sharing, cloud
+      storage, forums, repositories, chat servers, or package managers;
+  (d) reverse engineer, decompile, disassemble, deobfuscate, decrypt, unpack, or
+      otherwise attempt to derive or reconstruct the source code, algorithms,
+      protocols, game-data handling, embedded data, string tables, or protected
+      content of the Software or of any part of it, except to the exact extent
+      that applicable law forbids this restriction;
+  (e) extract, dump, scrape, or republish any data, table, fixture, endpoint
+      definition, protocol description, or other content bundled with or inside
+      the Software;
+  (f) remove, alter, or obscure any copyright, license, ownership, attribution,
+      or Licensor Mark notice in or on the Software;
+  (g) circumvent, disable, tamper with, defeat, bypass, or interfere with any
+      technical protection, obfuscation, integrity check, code signature, update
+      verification, license check, or other security measure in the Software, or
+      use the Software in a manner designed to do so;
+  (h) repackage, re-sign, re-host, or distribute the Software, modified or
+      unmodified, or present any file as an official UmamusumeX build, release,
+      or update when it did not originate from Licensor;
+  (i) operate the Software, or any service built on or derived from it, as a
+      public, hosted, commercial, subscription, "private-for-hire," or
+      pay-to-play server, or offer access to it to the general public;
+  (j) accept or solicit payment, donations, subscriptions, advertising revenue,
+      sponsorships, tips, in-game purchases, or any other compensation, in money
+      or in kind, in connection with Your operation or use of the Software;
+  (k) use the Software to trade, sell, or transfer accounts, items, currencies,
+      characters, or other virtual goods for money or anything of value, or to
+      misrepresent anything created on a private server as belonging to or issued
+      by the Game Operator;
+  (l) use the Software to impersonate the Game Operator or its services, to
+      phish, to collect other people's credentials or personal data, or to
+      mislead anyone about the origin of a server;
+  (m) use the Software to infringe, misappropriate, or violate any person's
+      copyright, trademark, privacy, contract, or other rights, or to violate
+      any law, regulation, or third-party terms that bind You;
+  (n) use the Software to disrupt, degrade, attack, scan, probe, overload, or
+      gain unauthorized access to the official Game services or any other
+      system, network, or account;
+  (o) distribute, host, or share any Game assets, client files, or game data in
+      connection with the Software (the Software does not include them and You
+      must use only Your own legitimately obtained copy of the Game);
+  (p) use the Software to build, train, evaluate, or improve any competing
+      server, emulator, bot, tool, or machine-learning model, or to benchmark
+      the Software for publication without Licensor's prior written consent;
+  (q) use the Software in any safety-critical, life-support, or similarly
+      high-risk setting; or
+  (r) attempt, assist, or encourage any of the above.
+
+Any use outside this Agreement is unauthorized and is not licensed.
+
+--------------------------------------------------------------------------------
+5. OWNERSHIP AND INTELLECTUAL PROPERTY
+--------------------------------------------------------------------------------
+5.1  Ownership. As between You and Licensor, Licensor (and its licensors) owns
+     all right, title, and interest, including all copyright, trade-secret,
+     patent, database, and other intellectual-property rights, in and to the
+     Software, in every form and every version, together with all modifications,
+     improvements, and derivative works of it, by whomever made. No right is
+     transferred to You except the limited license in Section 2.
+
+5.2  Reservation. All rights not expressly granted are reserved. No right is
+     granted by implication, estoppel, exhaustion, course of dealing, or
+     otherwise.
+
+5.3  Trade secrets. The Software's source code, internal structure, and
+     protected content are Licensor's confidential trade secrets. You will not
+     disclose or attempt to uncover them.
+
+5.4  Marks. Nothing in this Agreement grants You any right to use the Licensor
+     Marks, except to identify the unmodified Official Build accurately. You
+     will not register or use any confusingly similar name, logo, or domain.
+
+5.5  Feedback. If You send Licensor suggestions, ideas, bug reports, or other
+     feedback, You grant Licensor a perpetual, irrevocable, worldwide,
+     royalty-free, fully sublicensable license to use and exploit it for any
+     purpose without attribution or compensation, and You represent that it is
+     Yours to give. Feedback is not confidential.
+
+5.6  Your content. Your save data, settings, and files remain Yours. You grant
+     Licensor no right to them except what is needed if You choose to send them
+     to Licensor (for example, an exported log for a bug report), in which case
+     You grant Licensor a non-exclusive, royalty-free license to use them to
+     diagnose, fix, and improve the Software.
+
+--------------------------------------------------------------------------------
+6. THE GAME, ITS OPERATOR, AND NO AFFILIATION
+--------------------------------------------------------------------------------
+6.1  No affiliation. UmamusumeX is an independent, unofficial, fan-made project.
+     It is not affiliated with, endorsed by, sponsored by, or connected to
+     Cygames, Inc., any Game Operator, Valve, Steam, or any other owner of the
+     Game or its platforms. "Umamusume: Pretty Derby" and all related names,
+     characters, marks, and assets are the property of their respective owners.
+
+6.2  No Game assets. The Software contains no Game client, artwork, audio, or
+     proprietary Game assets, and Licensor does not distribute any. The Software
+     reads data from Your own legitimately installed copy of the Game. You are
+     solely responsible for holding a valid copy of the Game and for complying
+     with its license and terms.
+
+6.3  Your responsibility for the Game's terms. The Game and its platforms have
+     their own terms of service, end-user license agreements, and rules. Use of
+     the Software with the Game may violate those terms, may be treated by the
+     Game Operator as unauthorized, and may result in action against You,
+     including warnings, suspension, restriction, or permanent termination of
+     accounts and purchases, or other remedies. Licensor does not authorize,
+     encourage, or induce any breach of any third party's terms or any law. YOU
+     ALONE DECIDE WHETHER AND HOW TO USE THE SOFTWARE and You bear all resulting
+     risk. Licensor makes no representation that Your use is lawful or permitted
+     in Your jurisdiction or by any third party.
+
+6.4  Separate accounts. You are strongly advised to use a platform account that
+     has no connection to, and holds no value in, any Game account You care
+     about. Licensor is not responsible for any effect on any Game account,
+     including loss of progress, items, currency, or standing.
+
+6.5  The Game changes. The Game Operator may change the Game, its client, its
+     data, or its protocol at any time without notice. The Software may stop
+     working, work differently, or behave incorrectly as a result. Licensor has
+     no obligation to adapt the Software to any such change.
+
+--------------------------------------------------------------------------------
+7. SYSTEM CHANGES YOU AUTHORIZE
+--------------------------------------------------------------------------------
+7.1  To work with the Game, the Software modifies Your computer's configuration.
+     By using it, You expressly authorize and accept responsibility for, among
+     other things:
+       (a) editing the Windows hosts file to redirect the Game's server names to
+           Your own computer, with a backup;
+       (b) creating a certificate authority on Your computer and adding it to
+           Your user trust store so the Game will accept the Software's server;
+       (c) requesting administrator permission (Windows UAC) to apply changes;
+       (d) creating a desktop shortcut and a sign-in startup entry that offer to
+           return the Game to the official servers;
+       (e) starting, restarting, and closing the Game, the server, and
+           UmamusumeX's own processes;
+       (f) binding network ports, including on a local network when You enable
+           LAN mode; and
+       (g) writing files, databases, backups, and logs in the Software's folders
+           and in Your user profile.
+7.2  The Software provides ways to reverse these changes (including "Return to
+     official servers" and "Uninstall"), but Licensor does not guarantee that
+     any reversal is complete in every environment, for instance when security
+     software, permissions, a crash, a power loss, or another program interferes.
+     You are responsible for checking that Your system is in the state You want
+     and for repairing it manually if necessary.
+7.3  You are responsible for Your own computer, network, security software,
+     firewall, and operating-system settings, and for any consequences of
+     enabling LAN mode or exposing any port.
+
+--------------------------------------------------------------------------------
+8. YOUR RESPONSIBILITIES AS A SERVER OPERATOR
+--------------------------------------------------------------------------------
+8.1  You are solely responsible for every server You run with the Software, for
+     everyone You allow to connect, and for everything that happens on it. This
+     includes complying with privacy, data-protection, child-safety,
+     communications, and consumer laws that apply to You, and ensuring that
+     people You let connect understand that the server is unofficial and
+     provided as is.
+8.2  The Software includes club chat, friend, and similar social features. You are
+     solely responsible for any content created through them on Your server and
+     for any person who uses them.
+8.3  You will not use the Software to knowingly or recklessly cause harm to any
+     person, and You will not allow anyone under the age of majority in Your
+     jurisdiction to use a server You operate without the permission of a parent
+     or legal guardian.
+8.4  You are responsible for safeguarding the passwords, tokens, and credentials
+     the Software stores or displays, including Twitch login tokens, Data Link
+     passwords, and panel session links, and for the consequences of sharing
+     them.
+
+--------------------------------------------------------------------------------
+9. MODS, EXTENSIONS, AND EXPERIMENTAL FEATURES
+--------------------------------------------------------------------------------
+9.1  The Software includes optional modes and extensions ("Mods"), such as
+     Dream's Luck, Archipelago, Randomizer, Twitch Derby, Derby Casino, and a
+     client-side plugin for larger race fields. Mods are off until You switch
+     them on, and are provided as is, under this Agreement.
+9.2  Certain Mods rely on or interact with Third-Party Services (for example
+     Twitch and Archipelago). Those services are not Licensor's, may change or
+     stop at any time, and are governed by their own terms. Licensor is not
+     responsible for them or for Your dealings with them.
+9.3  A client-side plugin, if You install one, modifies or extends the Game
+     client. That is likely to violate the Game's terms and may carry a higher
+     risk of action against You and Your accounts. It is intended for use on a
+     private server only. You install and use it entirely at Your own risk and
+     must remove it before connecting to any official service.
+9.4  Features marked experimental, testing, advanced, or cheat may behave
+     unpredictably, alter or corrupt save data, or cause the Game to freeze or
+     crash. You use them entirely at Your own risk, and You are responsible for
+     taking and keeping backups.
+9.5  Mods or tools created by anyone other than Licensor are not covered by this
+     Agreement and are used at Your own risk.
+
+--------------------------------------------------------------------------------
+10. THIRD-PARTY COMPONENTS
+--------------------------------------------------------------------------------
+The Software incorporates third-party libraries and components, each governed by
+its own license (see THIRD_PARTY_NOTICES.md and the licenses folder of a
+release). Nothing in this Agreement limits, replaces, or supersedes the terms
+governing those components, which apply to them in place of this Agreement. This
+Agreement applies only to Licensor's own work. Where a third-party license
+requires it, You may exercise the rights it grants over that component.
+
+--------------------------------------------------------------------------------
+11. DATA AND PRIVACY
+--------------------------------------------------------------------------------
+11.1 Local operation. The Software runs on Your machine. The accounts, saves,
+     settings, tokens, and logs it keeps stay on Your machine and are not
+     transmitted to Licensor. Licensor does not operate Your server, has no
+     access to it, and collects no telemetry, analytics, or usage data from it.
+11.2 Network contact. The Software contacts external services only to the extent
+     needed for its functions: for example, checking for and downloading
+     updates from Licensor's release channel, reading public schedule
+     information, and, if You enable them, connecting to Third-Party Services.
+     Those services may receive technical data such as Your IP address under
+     their own policies.
+11.3 Logs. Logs may contain information about Your activity, accounts, and
+     network. Before sharing a log or an exported bundle, You must review it.
+     You are responsible for what You choose to send to anyone, including
+     Licensor.
+11.4 Backups. You alone are responsible for backing up Your data. Automatic
+     backups the Software makes are a convenience, not a guarantee, and may fail
+     or be incomplete.
+11.5 No data-processing relationship. Because Licensor does not receive or process
+     Your data, Licensor is not Your processor or controller. If You operate a
+     server for other people, You are responsible for the personal data of those
+     people.
+
+--------------------------------------------------------------------------------
+12. UPDATES AND SUPPORT
+--------------------------------------------------------------------------------
+12.1 Licensor may, but need not, provide updates. Updates are governed by this
+     Agreement unless accompanied by a new agreement, which will then govern.
+12.2 The Software may notify You of an update. An update installs only when You
+     choose to install it, and the Software verifies its integrity first. You are
+     responsible for deciding whether to update, and for keeping Your own
+     backups before You do.
+12.3 Licensor may change, suspend, restrict, or discontinue the Software, any
+     feature, any update channel, or any download at any time, with or without
+     notice, and without liability to You.
+12.4 Licensor has no obligation to provide support, maintenance, bug fixes,
+     compatibility with new Game versions or operating systems, or any particular
+     service level. Any help Licensor chooses to give is voluntary and given as
+     is.
+
+--------------------------------------------------------------------------------
+13. DISCLAIMER OF WARRANTY
+--------------------------------------------------------------------------------
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITH ALL FAULTS, AND WITHOUT
+WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW,
+LICENSOR AND ITS LICENSORS, CONTRIBUTORS, AND AFFILIATES DISCLAIM ALL
+WARRANTIES, CONDITIONS, AND REPRESENTATIONS, WHETHER EXPRESS, IMPLIED, STATUTORY,
+OR OTHERWISE, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, SATISFACTORY
+QUALITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NONINFRINGEMENT, AND ANY
+WARRANTY ARISING FROM COURSE OF DEALING, COURSE OF PERFORMANCE, OR USAGE OF
+TRADE.
+
+WITHOUT LIMITING THE ABOVE, LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE
+UNINTERRUPTED, ERROR-FREE, SECURE, OR FREE OF VIRUSES OR HARMFUL COMPONENTS; THAT
+IT WILL WORK WITH ANY PARTICULAR VERSION OF THE GAME, THE OPERATING SYSTEM, OR
+YOUR HARDWARE OR SOFTWARE; THAT IT WILL MEET YOUR REQUIREMENTS; THAT DEFECTS WILL
+BE CORRECTED; THAT ITS RESULTS, SIMULATIONS, OR CALCULATIONS WILL MATCH THE
+OFFICIAL GAME; OR THAT ITS USE IS LAWFUL OR PERMITTED BY ANY THIRD PARTY. NO
+ADVICE OR INFORMATION, ORAL OR WRITTEN, CREATES ANY WARRANTY.
+
+--------------------------------------------------------------------------------
+14. LIMITATION OF LIABILITY
+--------------------------------------------------------------------------------
+14.1 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL
+     LICENSOR OR ITS LICENSORS, CONTRIBUTORS, AFFILIATES, MEMBERS, OFFICERS,
+     DIRECTORS, EMPLOYEES, AGENTS, OR REPRESENTATIVES (TOGETHER, THE "LICENSOR
+     PARTIES") BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL,
+     EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF DATA, PROFITS, REVENUE,
+     GOODWILL, USE, OR OPPORTUNITY, OR FOR COST OF SUBSTITUTE GOODS OR SERVICES,
+     ARISING OUT OF OR RELATED TO THE SOFTWARE OR THIS AGREEMENT, HOWEVER
+     CAUSED, UNDER ANY THEORY OF LIABILITY (CONTRACT, TORT INCLUDING
+     NEGLIGENCE, STRICT LIABILITY, OR OTHERWISE), EVEN IF ADVISED OF THE
+     POSSIBILITY OF SUCH DAMAGES.
+14.2 WITHOUT LIMITING 14.1, THE LICENSOR PARTIES ARE NOT LIABLE FOR ANY OF THE
+     FOLLOWING, WHICH YOU ACCEPT AS RISKS OF USING THE SOFTWARE:
+       (a) ANY ACTION TAKEN AGAINST YOU OR YOUR ACCOUNTS BY THE GAME OPERATOR OR
+           ANY PLATFORM, INCLUDING SUSPENSION, BAN, RESTRICTION, TERMINATION,
+           OR LOSS OF PURCHASES, PROGRESS, ITEMS, OR CURRENCY;
+       (b) LOSS, CORRUPTION, OR EXPOSURE OF SAVE DATA, ACCOUNTS, CAREERS,
+           ROSTERS, SETTINGS, OR BACKUPS, WHETHER BY THE SOFTWARE, THE GAME, A
+           MOD, A CHEAT, AN EDIT, A RESTORE, AN UPDATE, OR A FAILURE;
+       (c) ANY CHANGE TO, DAMAGE TO, OR INSTABILITY OF YOUR COMPUTER, OPERATING
+           SYSTEM, HOSTS FILE, CERTIFICATE STORE, STARTUP ENTRIES, NETWORK, OR
+           OTHER SOFTWARE, INCLUDING AN INCOMPLETE REVERSAL OF CHANGES;
+       (d) SECURITY INCIDENTS, UNAUTHORIZED ACCESS, OR EXPOSURE OF
+           CREDENTIALS, WHETHER OR NOT RELATED TO LAN MODE OR A MISCONFIGURED
+           NETWORK;
+       (e) THE ACTS OR OMISSIONS OF ANY PERSON WHO CONNECTS TO A SERVER YOU
+           OPERATE, OR OF ANY OTHER USER;
+       (f) THE ACTS, OUTAGES, CHANGES, OR TERMS OF ANY THIRD-PARTY SERVICE;
+       (g) CLAIMS BY THE GAME OPERATOR OR ANY OTHER THIRD PARTY ARISING FROM
+           YOUR USE;
+       (h) HARDWARE, SOFTWARE, OR SERVICE LOSSES, DOWNTIME, OR COSTS; AND
+       (i) DELAYS, FAILURES, OR DISCONTINUATION OF THE SOFTWARE, UPDATES, OR
+           ANY FEATURE.
+14.3 CAP. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE TOTAL
+     AGGREGATE LIABILITY OF THE LICENSOR PARTIES FOR ALL CLAIMS ARISING OUT OF OR
+     RELATED TO THE SOFTWARE OR THIS AGREEMENT WILL NOT EXCEED THE GREATER OF (A)
+     THE AMOUNT YOU PAID LICENSOR FOR THE SOFTWARE IN THE TWELVE MONTHS BEFORE
+     THE CLAIM AROSE AND (B) TEN US DOLLARS (USD $10).
+14.4 These limitations apply even if a remedy fails of its essential purpose, and
+     they allocate risk between the parties; the license fee (none) reflects that
+     allocation. Each limitation is a separate and independent provision.
+14.5 Some jurisdictions do not allow certain exclusions or limitations. In those
+     jurisdictions, the exclusions and limitations apply only to the maximum
+     extent permitted. Nothing in this Agreement excludes or limits any liability
+     that cannot be excluded or limited by law, including liability for death or
+     personal injury caused by negligence, for fraud or fraudulent
+     misrepresentation, or for intentional misconduct.
+
+--------------------------------------------------------------------------------
+15. ASSUMPTION OF RISK AND ACKNOWLEDGMENT
+--------------------------------------------------------------------------------
+You acknowledge that You have read and understood this Agreement; that the
+Software is an unofficial private-server tool that modifies Your system and
+interacts with a Game You do not control; that its use may violate third-party
+terms and may result in loss of accounts, data, and access; that You have had the
+opportunity to seek independent advice; and that You voluntarily assume every
+risk of using the Software and accept the exclusions and limitations above as a
+condition of receiving it at no charge.
+
+--------------------------------------------------------------------------------
+16. INDEMNIFICATION
+--------------------------------------------------------------------------------
+To the maximum extent permitted by law, You will defend, indemnify, and hold
+harmless the Licensor Parties from and against all claims, demands, actions,
+losses, damages, liabilities, judgments, settlements, penalties, fines, costs, and
+expenses (including reasonable attorneys' fees) arising out of or related to: (a)
+Your use or misuse of the Software; (b) Your breach of this Agreement; (c) Your
+violation of any law or any third party's rights or terms, including those of the
+Game Operator; (d) any server You operate, its users, and any content or conduct
+on it; (e) any modification, extension, or tool You make or use with the Software
+in breach of this Agreement; and (f) any claim that results from Your negligence or
+willful misconduct. Licensor may assume exclusive control of the defense of any
+matter it chooses, at Your expense, and You will cooperate and may not settle
+anything that affects Licensor without its written consent.
+
+--------------------------------------------------------------------------------
+17. RELEASE
+--------------------------------------------------------------------------------
+To the maximum extent permitted by law, You release the Licensor Parties from all
+claims, known and unknown, arising out of Your use of the Software and any
+third-party action that results from it, including any action by the Game
+Operator. Where a law limits the scope of a general release, You waive its
+protection to the extent permitted. This section does not release liability that
+cannot be released by law.
+
+--------------------------------------------------------------------------------
+18. TERMINATION
+--------------------------------------------------------------------------------
+18.1 This Agreement and every license in it last until terminated. They terminate
+     automatically and immediately, without notice, if You breach any term.
+18.2 Licensor may also terminate or suspend Your license at any time, for any
+     reason, including by ceasing to distribute or support the Software,
+     including where required by law or by a third party's rights.
+18.3 You may terminate at any time by ceasing all use and removing the Software,
+     using the Software's Uninstall function or manually.
+18.4 On termination You must immediately stop using the Software, return the Game
+     to the official servers, remove the Software and every copy, and, at
+     Licensor's request, certify in writing that You have done so. The
+     certificate, hosts-file entries, startup entries, and shortcuts the Software
+     created are Your responsibility to remove if Uninstall did not.
+18.5 Sections 1, 4-6, 8-11, 13-17 and 18.4 through 21 survive termination, as does
+     any provision that by its nature should.
+
+--------------------------------------------------------------------------------
+19. REMEDIES
+--------------------------------------------------------------------------------
+You acknowledge that Your breach of Sections 4, 5, or 18.4 would cause Licensor
+irreparable harm for which damages would be inadequate, and that Licensor is
+entitled to seek injunctive and other equitable relief without posting bond, in
+addition to every other remedy available at law, including recovery of its costs
+and reasonable attorneys' fees in enforcing this Agreement.
+
+--------------------------------------------------------------------------------
+20. LEGAL COMPLIANCE
+--------------------------------------------------------------------------------
+20.1 You will comply with all laws that apply to Your use of the Software,
+     including export-control, sanctions, intellectual-property, privacy,
+     consumer-protection, and computer-misuse laws.
+20.2 You represent that You are not located in, ordinarily resident in, or
+     organized under the laws of any country or territory subject to
+     comprehensive sanctions, and that You are not on any restricted-party list.
+20.3 You represent that You are of legal age to enter into this Agreement under
+     the laws of Your jurisdiction, or have a parent's or guardian's permission and
+     that person accepts this Agreement for You.
+20.4 If You use the Software on behalf of or for a government, the Software is
+     provided as "commercial computer software" under this Agreement, with only
+     the rights stated here.
+20.5 Notices of claimed infringement or other legal notices should be sent
+     through Licensor's contact in Section 21.5. Licensor may remove or disable
+     any content or access it believes violates law or third-party rights.
+
+--------------------------------------------------------------------------------
+21. GENERAL
+--------------------------------------------------------------------------------
+21.1 Governing law. This Agreement and any dispute arising out of it are governed
+     by the laws of the jurisdiction in which Licensor is established or resident
+     on the date the dispute arises, without regard to its conflict-of-laws
+     rules. The United Nations Convention on Contracts for the International Sale
+     of Goods does not apply.
+21.2 Venue. The courts of that jurisdiction have exclusive jurisdiction over any
+     dispute arising out of or related to this Agreement or the Software, and You
+     consent to their jurisdiction and venue and waive any objection of
+     inconvenient forum. Licensor may in addition seek injunctive relief in any
+     court that has jurisdiction over You or the infringing activity.
+21.3 Time limit. To the extent permitted by law, any claim You bring must be
+     started within one (1) year after it arose, or it is permanently barred.
+21.4 Changes. Licensor may update this Agreement for future versions of the
+     Software, and will publish the new version with them. Continued use of a
+     version released under new terms is acceptance of those terms. A change does
+     not alter the terms that applied to a version You already hold, except as
+     required by law or as the new terms state.
+21.5 Contact. Questions, permission requests, and legal notices: contact Licensor
+     through the official Icarus Discord, https://discord.gg/wpbd3hTBDc. Nothing
+     is permitted beyond this Agreement unless Licensor gives written permission.
+21.6 Entire agreement. This Agreement is the entire agreement between You and
+     Licensor about the Software and replaces all earlier statements and
+     understandings about it, including earlier licenses for earlier versions,
+     except for any separate written agreement signed by Licensor.
+21.7 Severability. If any provision is held invalid or unenforceable, it will be
+     enforced to the maximum extent permitted and the rest of this Agreement stays
+     in effect; the parties intend the narrowest change that preserves the
+     provision's purpose.
+21.8 No waiver. A delay or failure by Licensor to enforce a right is not a waiver
+     of it. A waiver is effective only in writing signed by Licensor.
+21.9 Assignment. You may not assign, transfer, or delegate this Agreement or any
+     right in it without Licensor's prior written consent, and any attempt is
+     void. Licensor may assign this Agreement freely, including to a successor.
+21.10 No third-party beneficiaries, except that the Licensor Parties may enforce
+     Sections 13 through 17.
+21.11 Force majeure. Licensor is not liable for any failure or delay caused by
+     events beyond its reasonable control.
+21.12 Interpretation. Headings are for convenience only. "Including" means
+     "including without limitation." The plain-language summary is a guide and
+     does not change the formal terms. This Agreement is written in English, and
+     any translation is for convenience, with the English text controlling.
+21.13 Electronic acceptance. Your downloading, installing, running, or updating of
+     the Software is Your electronic signature and acceptance of this Agreement.
+21.14 Relationship. Nothing here creates a partnership, joint venture, agency,
+     employment, or fiduciary relationship between You and Licensor.
+21.15 Statutory rights. If You are a consumer, nothing in this Agreement affects
+     the statutory rights You cannot lawfully waive.
+
+© 2026 Remezzo / Icarus. All rights reserved.
+UmamusumeX and the Icarus name and logo are marks of Remezzo / Icarus.
